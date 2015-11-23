@@ -1,0 +1,9 @@
+{
+  "name": "yml-csv-replace",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "fast-csv": "^0.6.0",
+    "replace": "^0.3.0"
+  }
+}

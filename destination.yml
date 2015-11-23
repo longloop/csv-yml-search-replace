@@ -1,0 +1,8 @@
+String1: 'Severity'
+arguments:
+    String2: 'User'
+messages:
+    String3: 'information'
+    string5: 'mode off'
+errors:
+    string4: 'Invalid'
